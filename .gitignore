@@ -1,0 +1,12 @@
+data/
+.env
+cnn_module.py:Zone.Identifier
+cnn_test.py:Zone.Identifier
+faiss_idx.py:Zone.Identifier
+faiss_test.py:Zone.Identifier
+tester.py
+failed_gpt_api.py
+cnn_test.py
+vgg16_features.pkl
+Miniconda3-latest-Linux-x86_64.sh
+__pycache__/
